@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @jkotoff-ctr-asp, I was a former Apt304 contractor.
+- 🛡 I'm now at [Guilded](https://guilded.gg/thejared)
+- 💻 You can find my personal GitHub here: https://github.com/jaredkotoff
